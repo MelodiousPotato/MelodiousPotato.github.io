@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MelodiousPotato.github.io/sitemap.xml
+Sitemap: https://melodiouspotato.github.io/sitemap.xml
