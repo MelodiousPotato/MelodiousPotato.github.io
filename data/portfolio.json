@@ -36,15 +36,15 @@
     {
       "id": "2",
       "title": "Tracheal Implant Design Project",
-      "description": "A design project where my team and I created, modeled, and performed tensile & compressive testing on a 3D printable trachea to forecast the improvement of implant availability.",
-      "imageSrc": "https://github.com/MelodiousPotato/MelodiousPotato.github.io/blob/main/images/melody_design_project_can_delete.png?raw=true",
+      "description": "A design project where my team and I created, modeled, and performed tensile & compressive testing on a 3D printable trachea to forecast the improvement of implant availability. Simulations done in Autodesk Fusion 360.",
+      "imageSrc": "https://github.com/MelodiousPotato/MelodiousPotato.github.io/blob/main/images/Tracheal_Implant.png?raw=true",
       "url": "https://docs.google.com/document/d/1t89OxLlZmu5FZM4DaSsMeXF-mnBKRNn87X93f7ujjRQ/edit?usp=sharing"
     },
     {
       "id": "3",
       "title": "BoilerRoom Blunders",
       "description": "An experimental social media application designed and programmed by me & my team for the course CS 18000. Built in Java.",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "imageSrc": "https://github.com/MelodiousPotato/MelodiousPotato.github.io/blob/main/images/BoilerRoomBlunders.png?raw=true",
       "url": "https://github.com/WillWalters1/CS180-Team-Project"
     },
     {
