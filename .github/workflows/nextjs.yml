@@ -79,6 +79,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./out
+      - name: List files  
+        run: ls -la # or use tree . for a tree like structure  
 
   # Deployment job
   deploy:
