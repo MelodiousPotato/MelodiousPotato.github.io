@@ -42,10 +42,10 @@
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
+      "title": "BoilerRoom Blunders",
+      "description": "An experimental social media application designed and programmed by me & my team for the course CS 18000. Built in Java.",
       "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://github.com/WillWalters1/CS180-Team-Project"
     },
     {
       "id": "4",
