@@ -1,29 +1,29 @@
 {
-  "name": "Chetan",
-  "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
-  "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "name": "Rebekah Mou",
+  "headerTaglineOne": "My Portfolio",
+  "headerTaglineTwo": "",
+  "headerTaglineThree": "",
+  "headerTaglineFour": "",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/MelodiousPotato"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/rebekah-mou/"
     },
     {
       "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
+      "title": "Email",
+      "link": "mailto:mour@purdue.edu"
     },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    { "id": "4", "title": "Blog", "link": "https://portfolio-rebekah-mou.netlify.app/blog" },
+    { "id": "5", "title": "Instagram", "link": "https://www.instagram.com/rebekah_mou/" }
   ],
   "projects": [
     {
