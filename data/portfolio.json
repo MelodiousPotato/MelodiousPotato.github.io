@@ -28,7 +28,7 @@
   "projects": [
     {
       "id": "1",
-      "title": "Comparision of Machine Learning Models for AMR Gene Prediction",
+      "title": "Using Machine Learning Models for AMR Gene Prediction",
       "description": "A comparision of various supervised & unsupervised ML model techniques for antimicrobial resistance gene class abundances in post-fecal microbiota transplant patients. Built in Python using scikit-learn, XGBoost, Optuna, and SHAP.",
       "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       "url": "http://chetanverma.com/"
