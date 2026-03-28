@@ -31,7 +31,7 @@
       "title": "Using Machine Learning Models for AMR Gene Prediction",
       "description": "A comparision of various supervised & unsupervised ML model techniques for antimicrobial resistance gene class abundances in post-fecal microbiota transplant patients. Built in Python using scikit-learn, XGBoost, Optuna, and SHAP.",
       "imageSrc": "https://github.com/MelodiousPotato/MelodiousPotato.github.io/blob/main/images/AMR_Presentation.png?raw=true",
-      "url": "http://chetanverma.com/"
+      "url": "https://github.com/SlizovskiyLab/RebekahNotebook"
     },
     {
       "id": "2",
